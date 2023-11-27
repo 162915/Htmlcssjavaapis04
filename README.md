@@ -1,1 +1,1 @@
-# Htmlcssjavaapis04
+This project is made index.html, css and javaScript. it a coding quiz challenge, consists of two questions. Hit the refresh button to start the quiz, hit the next button to go to the next question. A countdown of ten seconds applied to finish the quiz. 
